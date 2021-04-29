@@ -2,6 +2,9 @@
   "name": "shoppingcart",
   "type": "module",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.11.0"
+  },
   "description": "shopping app",
   "main": "index.js",
   "scripts": {
